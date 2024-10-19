@@ -1,4 +1,4 @@
-let div = document.querySelector('div');
+let div = document.querySelector('#div');
 div.style.backgroundColor = "yellow";
 div.style.margin="20px";
 div.style.padding="10px";
